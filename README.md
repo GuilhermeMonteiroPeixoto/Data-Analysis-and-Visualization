@@ -1,2 +1,3 @@
-# data-brazil-covid19
-Como Visualizar dados de COVID19 no Brasil usando Folium e Pandas
+# Using COVID19 data to learn datascience
+
+In this project we used the folium library to build maps with COVID19 information from Brazil
