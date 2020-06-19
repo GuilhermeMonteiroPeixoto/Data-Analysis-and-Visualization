@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import folium
 
 url= 'https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-total.csv'
 arquivo = pd.read_csv(url, sep=',')
@@ -18,7 +19,7 @@ df_brasil.rename(columns = {'state':'Estado', 'totalCases': 'CasosTotais', 'deat
 #df_brasil
 
 
-#df_brasil.style.background_gradient(cmap='BuPu')
+df_brasil.style.background_gradient(cmap='BuPu')
 
 
 df_brasil[['Mortes','Estado']].plot.bar(x='Estado')
@@ -33,7 +34,6 @@ df_brasil[['NovasMortes','Estado']].plot.bar(x='Estado')
 plt.show()
 
 
-import folium
 arquivo_json = 'https://raw.githubusercontent.com/luizpedone/municipal-brazilian-geodata/master/data/Brasil.json'
 
 m = folium.Map(location=[-12.0,-49.5], zoom_start=4)
@@ -94,7 +94,7 @@ m.save('index3.html')
 nordeste = df_brasil.query('Estado==("AL","BA","CE","MA","PB","PE","PI","RN","SE")')
 #nordeste
 
-#nordeste.style.background_gradient(cmap='OrRd')
+nordeste.style.background_gradient(cmap='OrRd')
 
 nordeste[['Mortes','Estado']].plot.bar(x='Estado')
 plt.show()
