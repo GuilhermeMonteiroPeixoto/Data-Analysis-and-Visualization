@@ -97,9 +97,24 @@ nordeste = df_brasil.query('Estado==("AL","BA","CE","MA","PB","PE","PI","RN","SE
 nordeste.style.background_gradient(cmap='OrRd')
 
 nordeste[['Mortes','Estado']].plot.bar(x='Estado')
+plt.title("Nordeste")
 plt.show()
 
 nordeste[['CasosTotais','Estado']].plot.bar(x='Estado')
+plt.title("Nordeste")
 plt.show()
 
+###
+
+sudeste = df_brasil.query('Estado==("SP","MG","RJ","ES")')
+
+sudeste.style.background_gradient(cmap='OrRd')
+
+sudeste[['Mortes','Estado']].plot.bar(x='Estado')
+plt.title("Sudeste")
+plt.show()
+
+sudeste[['CasosTotais','Estado']].plot.bar(x='Estado')
+plt.title("Sudeste")
+plt.show()
 
