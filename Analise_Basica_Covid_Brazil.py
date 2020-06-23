@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import folium
+import numpy as np
 
 url= 'https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-total.csv'
 arquivo = pd.read_csv(url, sep=',')
