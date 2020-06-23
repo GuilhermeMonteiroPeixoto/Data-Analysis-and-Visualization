@@ -53,7 +53,7 @@ folium.Choropleth(
 
 folium.LayerControl().add_to(m)
 
-m.save('index1.html')
+m.save('Mortes_por_COVID19.html')
 
 
 m = folium.Map(location=[-12.0,-49.5], zoom_start=4)
@@ -72,7 +72,7 @@ folium.Choropleth(
 
 folium.LayerControl().add_to(m)
 
-m.save('index2.html')
+m.save('Infectados_por_COVID19.html')
 
 m = folium.Map(location=[-12.0,-49.5], zoom_start=4)
 
@@ -90,7 +90,7 @@ folium.Choropleth(
 
 folium.LayerControl().add_to(m)
 
-m.save('index3.html')
+m.save('Recuperados.html')
 
 nordeste = df_brasil.query('Estado==("AL","BA","CE","MA","PB","PE","PI","RN","SE")')
 #nordeste
