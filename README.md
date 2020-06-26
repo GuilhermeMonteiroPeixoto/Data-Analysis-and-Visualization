@@ -1,8 +1,10 @@
-# Using COVID19 data to learn datascience
+# Aulas e Projetos Básicos de Análise de Dados
 
-In this project we used the folium library to build maps with COVID19 information from Brazil
+## Projetos
 
-## Technologies
+- [x] Visualização de Dados do COVID19 no Brasil
+
+## Ferramentas usadas
 
 - [x] Pandas
 - [x] Numpy
