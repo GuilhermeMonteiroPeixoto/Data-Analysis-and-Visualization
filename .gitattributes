@@ -3,3 +3,4 @@
 *.java linguist-detectable=false
 *.html linguist-detectable=false
 *.python linguist-detectable=true
+*.ipynb linguist-detectable=false
