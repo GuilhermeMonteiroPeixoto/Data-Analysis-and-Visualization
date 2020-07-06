@@ -1,0 +1,140 @@
+Region,Latitude,Longitude,Presence,Extent,Last Reported,Origin,First Reported,Invasiveness
+Benin,43960.00,2.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Burkina Faso,43963.00,-166667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Burundi,-3.50,30.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Cameroon,6.00,43963.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Comoros,-1223333.00,4444553.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+"Congo, Democratic Republic of the",-2.50,43974.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+"Congo, Republic of the",-1.00,43966.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Côte d'Ivoire,8.00,-5.50,Present,,Not recorded,,Not recorded,
+Egypt,27.00,30.00,Present,,Not recorded,Introduced,Not recorded,
+Ethiopia,9.00,39.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Ghana,43838.00,-1.20,Present,,Not recorded,Introduced,Not recorded,Invasive
+Guinea,1083333.00,-1066667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Kenya,1.00,38.00,Present,,Not recorded,Introduced,1952,Invasive
+Madagascar,-20.00,47.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Malawi,-13.50,34.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Mali,18.00,-2.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Mauritania,20.25,-10.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Mauritius,-20.30,5758333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Mozambique,-18.25,35.00,Present,Localized,Not recorded,Introduced,Not recorded,Invasive
+Niger,18.00,9.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Nigeria,10.00,8.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Rwanda,-2.00,30.00,Present,Widespread,Not recorded,Introduced,Not recorded,Invasive
+Senegal,43965.00,-14.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Sierra Leone,43959.00,-11.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+South Africa,-29.00,24.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Tanzania,-6.00,35.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Togo,866667.00,108333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Uganda,1.25,32.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Bangladesh,24.00,90.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Brunei,43955.00,11466667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+China,35.00,105.00,Present,,Not recorded,,Not recorded,
+ - Fujian,26.25,118.00,Present,,Not recorded,,Not recorded,
+ - Guangdong,43974.00,113.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Guangxi,24.00,109.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Hainan,19.25,109.75,Present,,Not recorded,,Not recorded,
+ - Hunan,2766667.00,111.75,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Yunnan,25.00,101.50,Present,,Not recorded,,Not recorded,
+India,22.00,79.00,Present,Localized,Not recorded,Introduced,Not recorded,Invasive
+ - Andhra Pradesh,1583333.00,79.75,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Bihar,25.75,85.75,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Gujarat,23.00,71.75,Present,,Not recorded,,Not recorded,
+ - Karnataka,1466667.00,7583333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Kerala,1041667.00,76.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Madhya Pradesh,43974.00,78.50,Present,,Not recorded,,Not recorded,
+ - Maharashtra,43970.00,76.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Tamil Nadu,11.00,7833333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Uttar Pradesh,27.25,80.75,Present,,Not recorded,,Not recorded,
+ - West Bengal,24.00,88.00,Present,,Not recorded,,Not recorded,
+Indonesia,-5.00,120.00,Present,Localized,Not recorded,,Not recorded,
+ - Irian Jaya,-5.00,138.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Java,-749167.00,11000444.00,Present,,Not recorded,Native,Not recorded,Invasive
+ - Maluku Islands,-157634.00,12771744.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Sulawesi,-213154.00,12028888.00,Present,,Not recorded,,Not recorded,
+ - Sumatra,0.00,102.00,Present,,Not recorded,Native,Not recorded,Invasive
+Israel,43982.00,34.75,Present,Transient under eradication,Not recorded,,Not recorded,
+Jordan,31.00,36.00,Present,,Not recorded,Introduced,Not recorded,
+Laos,18.00,105.00,Present,,Not recorded,,Not recorded,
+Lebanon,3383333.00,3583333.00,Present,Few occurrences,Not recorded,,Not recorded,
+Malaysia,43953.00,112.50,Present,,Not recorded,Native,Not recorded,Invasive
+ - Peninsular Malaysia,4.00,102.00,Present,,Not recorded,Native,Not recorded,Invasive
+ - Sarawak,43953.00,113.50,Present,,Not recorded,Native,Not recorded,Invasive
+Myanmar,21.00,96.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Nepal,28.00,84.00,Present,,Not recorded,,Not recorded,
+Oman,21.00,57.00,Present,,Not recorded,,Not recorded,
+Pakistan,30.00,70.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Philippines,13.00,122.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Singapore,136667.00,103.80,Present,,Not recorded,Native,Not recorded,Invasive
+Sri Lanka,7.75,80.75,Present,Widespread,Not recorded,Introduced,Not recorded,Invasive
+Taiwan,24.00,121.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Thailand,43966.00,101.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Turkey,39.00,35.00,Present,Localized,Not recorded,,Not recorded,
+Vietnam,1616667.00,10783333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Portugal,396945.00,-813057.00,Present,Localized,Not recorded,,Not recorded,
+ - Madeira,3276737.00,-1694699.00,Present,Localized,Not recorded,,Not recorded,
+Spain,40.00,-4.00,Present,Localized,Not recorded,,Not recorded,
+ - Canary Islands,28.00,-15.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Bahamas,2504082.00,-7737122.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Barbados,1316453.00,-5955165.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Belize,17.25,-88.75,Present,,Not recorded,Introduced,Not recorded,Invasive
+British Virgin Islands,43969.00,-64.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Cayman Islands,43970.00,-8066667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Costa Rica,10.00,-84.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Cuba,22.00,-79.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Dominica,43966.00,-6133333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Dominican Republic,19.00,-7066667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+El Salvador,1383333.00,-8891667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Grenada,1211667.00,-6166667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Guadeloupe,16.25,-6158333.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Guatemala,43966.00,-90.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Haiti,1907582.00,-7229616.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Honduras,15.00,-86.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+Jamaica,1816667.00,-77.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Martinique,1466667.00,-61.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Mexico,23.00,-102.00,Present,Widespread,Not recorded,Introduced,Not recorded,Invasive
+Nicaragua,13.00,-85.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Panama,9.00,-80.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Puerto Rico,1824829.00,-6649989.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Saint Lucia,1388333.00,-6096667.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Saint Vincent and the Grenadines,1308333.00,-61.20,Present,,Not recorded,Introduced,Not recorded,Invasive
+Trinidad and Tobago,11.00,-61.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+U.S. Virgin Islands,1834829.00,-6498348.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+United States,39.76,-98.50,Present,Localized,Not recorded,Introduced,Not recorded,
+ - Florida,2875054.00,-825001.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Hawaii,2078785.00,-15638612.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Australia,-25.00,135.00,Present,Localized,Not recorded,Introduced,Not recorded,Invasive
+ - New South Wales,-33.00,146.00,Present,Localized,Not recorded,Introduced,Not recorded,Invasive
+ - Northern Territory,-20.00,134.00,Present,Few occurrences,Not recorded,Introduced,Not recorded,Invasive
+ - Queensland,-20.00,145.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Western Australia,-25.00,122.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Federated States of Micronesia,6924.00,158162.00,Present,,Not recorded,,Not recorded,
+Fiji,-18.00,178.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Guam,1347861.00,14481834.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Marshall Islands,7113.00,171236.00,Present,,Not recorded,,Not recorded,
+Northern Mariana Islands,15214.00,145756.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Papua New Guinea,-6.00,147.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Tonga,-20.00,-175.00,Present,,Not recorded,,Not recorded,
+Brazil,-10.00,-55.00,Present,Localized,Not recorded,Introduced,Not recorded,
+ - Alagoas,-958333.00,-3641667.00,Present,,Not recorded,,Not recorded,
+ - Amazonas,-3.75,-64.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Bahia,-12.00,-42.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Ceara,-5.00,-39.50,Present,,Not recorded,,Not recorded,
+ - Espirito Santo,-20.00,-40.75,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Goias,-1558071.00,-4963623.00,Present,,Not recorded,,Not recorded,
+ - Minas Gerais,-18.00,-44.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Para,-4.00,-53.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Parana,-24.50,-5133333.00,Present,,Not recorded,,Not recorded,
+ - Pernambuco,-833333.00,-37.75,Present,,Not recorded,,Not recorded,
+ - Rio Grande do Norte,-5.75,-36.50,Present,,Not recorded,,Not recorded,
+ - Rio Grande do Sul,-30.00,-53.50,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Santa Catarina,-27.00,-50.00,Present,,Not recorded,,Not recorded,
+ - Sao Paulo,-22.00,-49.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+ - Tocantins,-10.50,-48.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Colombia,4.00,-73.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Ecuador,-1.25,-78.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+French Guiana,4.00,-53.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Guyana,5.00,-59.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Peru,-10.00,-75.25,Present,,Not recorded,Introduced,Not recorded,Invasive
+Suriname,4.00,-56.00,Present,,Not recorded,Introduced,Not recorded,Invasive
+Venezuela,8.00,-66.00,Present,,Not recorded,Introduced,Not recorded,Invasive
