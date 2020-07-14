@@ -6,7 +6,7 @@
 
 - [x] Visualização de Dados do Fusarium Oxysporum
 
-## Ferramentas usadas
+## Bibliotecas usadas
 
 - [x] Pandas
 - [x] Numpy
