@@ -16,8 +16,16 @@ from sklearn.model_selection import train_test_split
 x_treino, x_teste, y_treino, y_teste = train_test_split(x,y,test_size = 0.3)
 
 from sklearn.ensemble import ExtraTreesClassifier
+#from sklearn.ensemble import ExtraTreesRegressor
+#from sklearn.ensemble import RandomForestClassifier
+#from sklearn.ensemble import RandomForestRegressor
+
 
 modelo = ExtraTreesClassifier()
+#modelo = ExtraTreesRegressor(n_estimators=100, random_state=0)
+#modelo = RandomForestClassifier()
+#modelo = RandomForestRegressor()
+
 modelo.fit(x_treino,y_treino)
 
 previsao = modelo.predict(x_teste[0:30])
