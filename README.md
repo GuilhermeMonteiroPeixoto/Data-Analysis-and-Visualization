@@ -12,3 +12,4 @@
 - [x] Numpy
 - [x] Folium
 - [x] Matplotlib
+- [x] Sklearn
