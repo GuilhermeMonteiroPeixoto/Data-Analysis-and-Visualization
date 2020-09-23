@@ -6,10 +6,5 @@
 
 - [x] Visualização de Dados do Fusarium Oxysporum
 
-## Bibliotecas usadas
+- [x] Titanic: Machine Learning from Disaster
 
-- [x] Pandas
-- [x] Numpy
-- [x] Folium
-- [x] Matplotlib
-- [x] Sklearn
