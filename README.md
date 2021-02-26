@@ -20,3 +20,5 @@ The content related to Data Science (Machine Learning and Deep Learning) is avai
 	* Scrapy
 
 * SQL
+
+* Projects and Exercises
