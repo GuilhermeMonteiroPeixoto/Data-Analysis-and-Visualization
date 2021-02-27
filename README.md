@@ -18,6 +18,7 @@ The content related to Data Science (Machine Learning and Deep Learning) is avai
 
 * Data Scraping
 	* Scrapy
+	* Selenium WebDriver
 
 * SQL
 
