@@ -32,8 +32,3 @@ elif modulo>valor_grande:
     print(aux)
 else:
     print(modulo)
-
-
-
-
-
