@@ -1,4 +1,5 @@
 # Speed Test
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
 
 With the speed test you get to know the performance and quality of your connection. 
 
