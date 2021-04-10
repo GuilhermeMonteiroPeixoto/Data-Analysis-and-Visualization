@@ -24,7 +24,9 @@ This repository aims to show basic concepts of data analysis, and not only the t
 	* Faker
 		> Faker is a Python package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.
 	* Missingno
+		> Missingno is a Python library that provides the ability to understand the distribution of missing values through informative visualizations.
 	* FuzzyWuzzy
+		> It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
 
 * Introduction to Machine Learning
 	* Scikit-learn
