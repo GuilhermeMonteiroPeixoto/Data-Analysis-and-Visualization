@@ -33,5 +33,3 @@ The content related to Data Science (Machine Learning and Deep Learning) is avai
 	* Selenium WebDriver
 
 * SQL
-
-* Projects and Exercises
