@@ -4,13 +4,17 @@ This repository aims to show basic concepts of data analysis, and not only the t
 
 * Python libraries
 	* Numpy
+		> NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 	* SciPy
+		> SciPy is a scientific computation library that uses NumPy underneath. SciPy stands for Scientific Python. It provides more utility functions for optimization, stats and signal processing.
 	* Pandas
 	* StatsModels
+		> statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 	* Matplotlib
 	* Seaborn
 	* Datetime
 	* Threading
+		> This module constructs higher-level threading interfaces on top of the lower level _thread module.
 	* Speedtest
 	* Faker
 	* Missingno
