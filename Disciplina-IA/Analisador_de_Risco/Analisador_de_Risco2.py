@@ -84,11 +84,10 @@ feature_space = []
 for i in range(indices.shape[0] - 1, -1, -1):
     feature_space.append(names_index[indices[i]])
 fig, ax = plt.subplots(figsize=(10, 10))
-plt.title('Importancia para Random Forest')
+plt.title('Importância para Random Forest')
 plt.barh(index,importance_desc,align="center")
 plt.yticks(index,feature_space)
-plt.xlabel('Mean Decrease in Impurity')
-plt.ylabel('Feature')
+plt.xlabel('Diminuição média da impureza')
 plt.show()
 
 #Entrada dos dados do User
@@ -112,16 +111,23 @@ def analise_risco():
 
     previsao2 = clf.predict(data_array)
     previsao = modelo.predict(data_array)
-    return previsao2
+    return int(previsao2), int(previsao)
 
 print("\n")
-pontuacao = int(analise_risco())
+pontuacao_randomforest, pontuacao_arvoredecisao = analise_risco()
 
-if pontuacao<1:
-    print("O risco é alto.")
-elif pontuacao==1:
-    print("O risco é moderado.")
+if pontuacao_randomforest<1:
+    print("Analisando o risco usando Random Forest, aparentemente ele é alto.")
+elif pontuacao_randomforest==1:
+    print("Analisando o risco usando Random Forest, aparentemente ele é moderado.")
 else:
-    print("O risco é baixo.")
+    print("Analisando o risco usando Random Forest, aparentemente ele é baixo.")
+
+if pontuacao_arvoredecisao<1:
+    print("Analisando o risco usando DecisionTree, aparentemente ele é alto.")
+elif pontuacao_arvoredecisao==1:
+    print("Analisando o risco usando DecisionTree, aparentemente ele é moderado.")
+else:
+    print("Analisando o risco usando DecisionTree, aparentemente ele é baixo.")
 
 input()
